@@ -1,4 +1,4 @@
-AndroidTrivia - starter code
+AndroidTrivia
 ============================
 ![App](app.gif)
 
